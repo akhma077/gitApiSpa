@@ -1,0 +1,1 @@
+export { FavoritePage } from './index.tsx'
